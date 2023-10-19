@@ -1,9 +1,16 @@
-### Hi there 👋
+### Hi there. This is Soo Hyeon, Sim Git house~! 👋
 
 <!--
 **simsoohyeon/simsoohyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
+### :page_facing_up: My History<br/>
+   - 🖥️: [**Dong Yang University**]()
+   - 🍔: [**하안 KFC **]()   
+   - 🥪: [**일직 Subway**]()    
+   - 🏫: [**Soha high school**]() 「」
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
