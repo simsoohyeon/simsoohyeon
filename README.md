@@ -1,11 +1,11 @@
 ### Hi there. This is Soo Hyeon, Sim Git house~! 👋
 
 
- ##:page_facing_up: My History<br/>
-   -  :computer: [**Dong Yang University**]()
-   -  :hamburger: [**하안 KFC **]()   
-   -  :sandwich: [**일직 Subway**]()    
-   -  :school: [**Soha high school**]() 「」
+ <h1>:world_map:My History 🙋‍♀️:</h1><br/><hr>
+   - :computer: [**Dong Yang University AI major**](https://www.dongyang.ac.kr/sites/dmu_23259/index.do)<br> (2023~)
+   - :hamburger: [**하안 KFC**](https://www.kfckorea.com/) (2023.5~)
+   - :sandwich: [**일직 Subway**](https://www.subway.co.kr/)(2022.12~2023.5)    
+   - :school: [**Soha high school**](https://soha.hs.kr/home/index.do)(2020~2022)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
