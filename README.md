@@ -21,8 +21,8 @@
 - ⚡ Fun fact: ...
 -->
 ### <h2> My Interest 🤾‍♀️</h2>
-- 🏃‍♀️
-- 📺
-- 🎹
+- I like to exercise. 🏃‍♀️
+- I like movie and drama. 📺
+- I like to play the piano. 🎹
   
 ### <h2> My SNS 📱</h2>
