@@ -8,7 +8,7 @@
    - :robot: [**Dong Yang University AI major**](https://www.dongyang.ac.kr/sites/dmu_23259/index.do)   (2023~)
    - :hamburger: [**KFC**](https://www.kfckorea.com/)    (2023.5~)
    - :sandwich: [**SUBWAY**](https://www.subway.co.kr/)    (2022.12~2023.5)
-   - :school: [**SOHA school**](https://soha.hs.kr/home/index.do)   (2020~2022)
+   - :school: [**SOHA high school**](https://soha.hs.kr/home/index.do)   (2020~2022)
 
    ### <h2> My ability 💻</h2>
 
