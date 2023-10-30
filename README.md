@@ -18,6 +18,13 @@
 <p><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> <br> </p>
 <br>
 
+### <h2> My Study posts 📚 </h2>
+- [**OSS 필기노트**](https:/) 저의 OSS 교과목 정리 필기노트
+- [**markdwon 사용법**](https:/) markdown 사용법에 관한 내용 정리
+- [**Cheet Sheet**](https:/) cheet steet에 대해 요약
+- [**Data Analysis**](https:/) 데이터분석 입문 교과목 정리
+- [**Datebase**](http:/) 데이터베이스 교과목 정리
+- [**Other posts**](https:/) 그 외 나의 필기노트
 
 ### <h2> My Interest 🤾‍♀️</h2>
 - I like to exercise. 🏃‍♀️
