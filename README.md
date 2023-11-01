@@ -25,7 +25,7 @@
 - [**Data Analysis**](https:/) 데이터분석 입문 교과목 정리
 - [**Datebase**](http:/) 데이터베이스 교과목 정리
 - [**Other posts**](https:/) 그 외 나의 필기노트
-- ![soohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=simsoohyeon&show_icons=true&theme=purple)
+- ![soohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=simsoohyeon&show_icons=true&theme=dark)
 
 ### <h2> My Interest 🤾‍♀️</h2>
 - I like to exercise. 🏃‍♀️
