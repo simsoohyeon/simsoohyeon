@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&customColorList=_hexcode=FFC0CB=200&section=header&text=Welcom%20to%20Soo%20Hyun%20GitHub~!&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&customColorList=_hexcode=FFC0CB=200&section=header&text=Welcome%20to%20Soo%20Hyun%20GitHub~!&fontSize=45)
 
 <div align="center">
  <h1> Hello everyone~ This is Soo Hyun's Git house :) 🏠🌳 </h1>
