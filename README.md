@@ -2,7 +2,12 @@
 
 <div align="center">
  <h1> Hello everyone~ This is Soo Hyun's Git house :) 🏠🌳 </h1>
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimsoohyeon&count_bg=%23BFE1FF&title_bg=%238A2BE2&icon=&icon_color=%23E7E7E7&title=%F0%9F%98%8A&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div align="center"> 
+
+
 
 ### <h2> My History  🙋‍♀️</h2><br/>
 - :robot:  [**Dong Yang University AI major**](https://www.dongyang.ac.kr/sites/dmu_23259/index.do)   (2023~) <br>
