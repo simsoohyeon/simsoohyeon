@@ -31,4 +31,5 @@
 - I like to exercise. 🏃‍♀️
 - I like movie and drama. 📺
 - I like to play the piano. 🎹
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color_hexcode=FFC0CB=200&section=footer&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
