@@ -5,7 +5,7 @@
 
 <h3> 💌 <br>
  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://Instagram.com/dimduyeon)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://Instagram.com/dimduyeon_)
 
 </h3>
 <h3> 🧑‍🤝‍🧑
@@ -22,10 +22,11 @@
 - :hamburger: [**KFC**](https://www.kfckorea.com/)    (2023.5~) <br>
 - :sandwich: [**SUBWAY**](https://www.subway.co.kr/)    (2022.12~2023.5) <br>
 - :school: [**SOHA high school**](https://soha.hs.kr/home/index.do)   (2020~2022) <br>
-   ### <h2> My Imformation 💻</h2>
+
+### <h2> My Imformation 💻</h2>
    
 <h3> Computer Language</h3>
-<p> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=GIT&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-F7DF1E?style=flat&logo=Java&logoColor=white"/></p><img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<p> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=GIT&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-F7DF1E?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/></p>
 
 <h3> Tools</h3>
 <p><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> <br> </p>
