@@ -1,9 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&customColorList=_hexcode=FFC0CB=200&section=header&text=Welcome%20to%20Soo%20Hyun%20GitHub~!&fontSize=45)
 
 <div align="center">
- <h1> Hello everyone~ This is Soo Hyun's Git house :) 🏠🌳 </h1>
+<h1> 💗 Hello everyone~ This is Soo Hyun's Git house :) ❤ </h1>
+
+<h3> 💌 <br>
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimsoohyeon&count_bg=%23BFE1FF&title_bg=%238A2BE2&icon=&icon_color=%23E7E7E7&title=%F0%9F%98%8A&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://Instagram.com/dimduyeon)
+
+</h3>
+<h3> 🧑‍🤝‍🧑
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimsoohyeon&count_bg=%23BFE1FF&title_bg=%238A2BE2&icon=&icon_color=%23E7E7E7&title=%F0%9F%98%8A&edge_flat=false)](https://hits.seeyoufarm.com) 
+</h3>
 
 </div align="center"> 
 
