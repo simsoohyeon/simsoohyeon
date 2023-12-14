@@ -3,7 +3,7 @@
 
 <div align="center">
 <h1> 💗 Hello everyone~ This is Soo Hyun's Git house :) 💗 </h1>
-
+<h2> 🙇‍♀️ Contact me 💌🙇‍♀️</h2>
 <h3> 💌 <br>
  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://Instagram.com/dimduyeon_)
