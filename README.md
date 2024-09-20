@@ -16,7 +16,6 @@
 ### <h2> SOO HYUN's History  🙋‍♀️</h2><br/>
 - :robot:  [**Dong Yang University AI major**](https://www.dongyang.ac.kr/sites/dmu_23259/index.do)   (2023~) <br>
 - :hamburger: [**KFC**](https://www.kfckorea.com/)    (2023.5~) <br>
-- :sandwich: [**SUBWAY**](https://www.subway.co.kr/)    (2022.12~2023.5) <br>
 - :school: [**SOHA high school**](https://soha.hs.kr/home/index.do)   (2020~2022) <br>
 
 ### <h2> SOO HYUN's Imformation 💻</h2>
