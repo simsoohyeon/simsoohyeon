@@ -34,8 +34,6 @@
 - [**Datebase**](https://github.com/simsoohyeon/2023-A-DA) 데이터분석 입문 교과목 정리
 - [**Other posts**](https:/) 그 외 나의 필기노트 <br>
 
-   ![soohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=simsoohyeon&show_icons=true&theme=white)
-
 ### <h2> SOO HYUN's hobby 🤾‍♀️</h2>
 - 🏃‍♀️
 - 📺
