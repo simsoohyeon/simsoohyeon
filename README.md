@@ -5,7 +5,7 @@
 <h2> 🙇‍♀️ Contact me 💌🙇‍♀️</h2>
 <h3> 💌 <br>
  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://Instagram.com/dimduyeon_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://Instagram.com/shyun__64)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimsoohyeon&count_bg=%23BFE1FF&title_bg=%238A2BE2&icon=&icon_color=%23E7E7E7&title=%F0%9F%98%8A&edge_flat=false)](https://hits.seeyoufarm.com) 
